@@ -577,9 +577,9 @@ function renderInsights() {
   let html = toShow.map(post => `
     <div class="insight-card">
       <div class="insight-meta">📝 LinkedIn · Finance Practice</div>
-      <div class="insight-title">${escapeHTML(post.title)}</div>
+      <div class="insight-title">${escapeHTML(post.SAP support for ECC ends in 2027. Most Gulf CFOs are not ready for things that determine whether a Gulf S/4HANA transformation delivers — or quietly fails)}</div>
       <div class="insight-excerpt">${escapeHTML(post.excerpt)}</div>
-      <a class="insight-link" href="${escapeAttr(post.url)}" target="_blank" rel="noopener">Read on LinkedIn →</a>
+      <a class="insight-link" href="${escapeAttr(post.https://www.linkedin.com/posts/rajeshvijay26_sap-s4hana-financetransformation-activity-7471454017815134209-H5zp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQBWccBwcFPMuSR621POrIfWr2wVf4YgcY)}" target="_blank" rel="noopener">Read on LinkedIn →</a>
     </div>
   `).join('');
 
