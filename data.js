@@ -1,3 +1,22 @@
+/* ============================================================
+   MERIDIAN GLOBAL ADVISORY GROUP — CONTENT DATA FILE
+   ============================================================
+   This is the ONLY file you need to edit going forward.
+
+   HOW TO ADD A NEW LINKEDIN POST:
+   1. Copy one of the blocks inside `posts` below
+   2. Paste it at the TOP of the list (newest first)
+   3. Fill in title, excerpt, and url
+   4. Save the file and redeploy — done.
+   The website always shows the 3 most recent posts automatically.
+
+   HOW TO ADD A NEW CLIENT TESTIMONIAL:
+   1. Copy one of the blocks inside `testimonials` below
+   2. Paste it at the TOP of the list (newest first)
+   3. Fill in name, role, company, and quote
+   4. Save the file and redeploy — done.
+   ============================================================ */
+
 const SITE_DATA = {
 
   posts: [
@@ -37,3 +56,7 @@ const SITE_DATA = {
   ]
 
 };
+
+// IMPORTANT: explicitly attach to window so renderInsights()/renderTestimonials()
+// in index.html can always find it, regardless of script loading context.
+window.SITE_DATA = SITE_DATA;
