@@ -1,4 +1,4 @@
- /* ============================================================
+/* ============================================================
    MERIDIAN GLOBAL ADVISORY GROUP — CONTENT DATA FILE
    ============================================================
    This is the ONLY file you need to edit going forward.
@@ -21,6 +21,12 @@ const SITE_DATA = {
 
   posts: [
     {
+      title: "UK & US are quietly auditing companies over their 'Dubai expats' — and most UAE employers have no idea.",
+      excerpt: "The larger risk may be the corporate blind spot. In today's environment, tax authorities are increasingly focused on substance over form.",
+      url: "https://www.linkedin.com/posts/rajeshvijay26_internationaltax-permanentestablishment-corporatetax-share-7475772182296559616-PzVu",
+      date: "2026-07"
+    },
+    {
       title: "SAP support for ECC ends in 2027 — most Gulf CFOs are not ready.",
       excerpt: "The four things that determine whether a Gulf S/4HANA transformation delivers, or quietly fails.",
       url: "https://www.linkedin.com/posts/rajeshvijay26_sap-s4hana-financetransformation-activity-7471454017815134209-H5zp",
@@ -31,13 +37,7 @@ const SITE_DATA = {
       excerpt: "Why most SAP S/4HANA implementations underdeliver — and the four design decisions that separate transformations that work from those that quietly disappoint, drawn from 25 years of finance-led ERP leadership.",
       url: "https://www.linkedin.com/posts/rajeshvijay26_sap-s4hana-financetransformation-activity-7471454017815134209-H5zp",
       date: "2026-06"
-    },
-     {
-      title: "UK & US are quietly auditing companies over their 'Dubai expats' — and most UAE employers have no idea.",
-      excerpt: "The larger risk may be the corporate blind spot.In today's environment, tax authorities are increasingly focused on substance over form.",
-      url: "https://www.linkedin.com/posts/rajeshvijay26_internationaltax-permanentestablishment-corporatetax-share-7475772182296559616-PzVu",
-      date: "2026-06"
-    } 
+    }
     /* ADD YOUR NEXT POST ABOVE THIS LINE — newest first.
     Example to copy:
     ,{
