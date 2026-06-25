@@ -34,10 +34,10 @@ const SITE_DATA = {
     },
      {
       title: "UK & US are quietly auditing companies over their 'Dubai expats' — and most UAE employers have no idea.",
-      excerpt: "However, the larger risk may be the corporate blind spot.In today's environment, tax authorities are increasingly focused on substance over form.",
+      excerpt: "The larger risk may be the corporate blind spot.In today's environment, tax authorities are increasingly focused on substance over form.",
       url: "https://www.linkedin.com/posts/rajeshvijay26_internationaltax-permanentestablishment-corporatetax-share-7475772182296559616-PzVu",
       date: "2026-06"
-    }, 
+    } 
     /* ADD YOUR NEXT POST ABOVE THIS LINE — newest first.
     Example to copy:
     ,{
