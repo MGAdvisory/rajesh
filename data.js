@@ -31,7 +31,13 @@ const SITE_DATA = {
       excerpt: "Why most SAP S/4HANA implementations underdeliver — and the four design decisions that separate transformations that work from those that quietly disappoint, drawn from 25 years of finance-led ERP leadership.",
       url: "https://www.linkedin.com/posts/rajeshvijay26_sap-s4hana-financetransformation-activity-7471454017815134209-H5zp",
       date: "2026-06"
-    }
+    },
+     {
+      title: "UK & US are quietly auditing companies over their "Dubai expats" — and most UAE employers have no idea.",
+      excerpt: "However, the larger risk may be the corporate blind spot.In today's environment, tax authorities are increasingly focused on substance over form.",
+      url: "https://www.linkedin.com/posts/rajeshvijay26_internationaltax-permanentestablishment-corporatetax-share-7475772182296559616-PzVu",
+      date: "2026-06"
+    }, 
     /* ADD YOUR NEXT POST ABOVE THIS LINE — newest first.
     Example to copy:
     ,{
