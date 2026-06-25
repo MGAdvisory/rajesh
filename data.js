@@ -1,4 +1,4 @@
-/* ============================================================
+ /* ============================================================
    MERIDIAN GLOBAL ADVISORY GROUP — CONTENT DATA FILE
    ============================================================
    This is the ONLY file you need to edit going forward.
@@ -33,7 +33,7 @@ const SITE_DATA = {
       date: "2026-06"
     },
      {
-      title: "UK & US are quietly auditing companies over their "Dubai expats" — and most UAE employers have no idea.",
+      title: "UK & US are quietly auditing companies over their 'Dubai expats' — and most UAE employers have no idea.",
       excerpt: "However, the larger risk may be the corporate blind spot.In today's environment, tax authorities are increasingly focused on substance over form.",
       url: "https://www.linkedin.com/posts/rajeshvijay26_internationaltax-permanentestablishment-corporatetax-share-7475772182296559616-PzVu",
       date: "2026-06"
